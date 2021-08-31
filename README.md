@@ -23,14 +23,14 @@ The letters mean:
 
 
 ## Libraries Used
-scikit-learn
-pandas
-numpy
-flask
-regex
-nltk
-re
-pickle
+
+    nltk
+    re
+    flask
+    pickle
+    scikit-learn
+    pandas
+    numpy
 
 ## Author
 
