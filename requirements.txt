@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+flask
+regex
+Natural Language Toolkit
+nltk
+re
+pickle
+joblib
