@@ -4,5 +4,4 @@ numpy
 flask
 regex
 nltk
-pickle
 gunicorn
