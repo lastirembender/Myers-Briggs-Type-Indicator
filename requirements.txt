@@ -4,6 +4,6 @@ numpy
 flask
 regex
 nltk
-re==2020.5.14
+regex==2020.5.14
 pickle
 gunicorn
