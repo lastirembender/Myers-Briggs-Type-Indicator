@@ -86,7 +86,7 @@ def pre_process_text(data, remove_stop_words=True, remove_mbti_profiles=True):
 
 app = Flask(__name__)
 
-model = pickle.load(open("../mbti_model.pkl", "rb"))
+model = pickle.load(open("mbti_model.pkl", "rb"))
 
 
 @app.route("/")
