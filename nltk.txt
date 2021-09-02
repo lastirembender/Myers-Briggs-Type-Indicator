@@ -1,4 +1,0 @@
-stopwords
-punkt
-PorterStemmer
-WordNetLemmatizer
